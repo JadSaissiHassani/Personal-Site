@@ -1,2 +1,2 @@
 # Personal-Site
-This project for my hackclub mission !
+This is my personal website, I made it for the stardance challenge and to introduce myself!
